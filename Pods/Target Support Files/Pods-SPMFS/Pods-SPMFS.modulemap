@@ -1,0 +1,6 @@
+framework module Pods_SPMFS {
+  umbrella header "Pods-SPMFS-umbrella.h"
+
+  export *
+  module * { export * }
+}

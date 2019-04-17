@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>378223256912-jl6go01rn1ihg788h557cba93cj21bck.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.378223256912-jl6go01rn1ihg788h557cba93cj21bck</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgDxYRSURshLJpdpqjl5v2OOKYRufxGqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>378223256912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Os.SPMFS</string>
+	<key>PROJECT_ID</key>
+	<string>spmfs-fa76a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spmfs-fa76a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:378223256912:ios:60afd193c70cd41f</string>
+	<key>DATABASE_URL</key>
+	<string>https://spmfs-fa76a.firebaseio.com</string>
+</dict>
+</plist>
